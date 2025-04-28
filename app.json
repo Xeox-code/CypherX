@@ -1,5 +1,5 @@
 {
-  "name": "CypherX",
+  "name": "Sildylia",
   "description": "CypherX, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
   "keywords": [],
@@ -16,22 +16,22 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
+    "value": "CYPHER-X:~UEsDBBQAAAgIALK9mlornYFzIgUAAAYJAAAKAAAAY3JlZHMuanNvbpVVXZOqOBD9K1t51bnyjVo1VYuIAopfqOBs7UMMAaIIGAKKt+a*b6EzNVO1987O8pQiyenT3adPfoI0IwWe4Br0f4Kckgoy3CxZnWPQB4MyDDEFbRBABkEfjAfxEO2cq5ht9SserxHycLzULyeRRXq+FubjfRJFdlb5xjN4bYO83CcEfQEInROvWwen4F6M23m*UveubqBRnQtEH2ocKuLlBB2KYCRaz+C1QYSEkjQy8hifMIXJBNcLSOj36OvGdrRjcmjuZjhct4ZbNd6wKl4usx4VLw5sGbtQKb2ucOx+j35XKOzCS1bxSRudtga0OdW8HVD4YqReEDsntBn30GFNFm72oF+QKMWBFeCUEVZ*u+4bjemV4K3X1XxHW5G1QLil+TVsbXcTs9o4XCVQTTh05qPN94jvciNGdrWWjoaV7eJed2XuX25kmq99OT2icj6Od5vJSpstl5+JL+i7Vo7*p+5whGl9uGkL7A1cIaEjPDQ35jqyV97GvVUOvXXyjncMwpH2PfpD73w497S56O8607K07eNCn1N0G0oh38mUwBsOlCW+mtf0+EEfspJ+xXLglc5LzxuIV2UWSYFyRlcrnw8Koh7SI+1wvniq48V15u+n2lpcDUIpdaatjo*iCYn0XV2bM*UwruG1EuJ87FWj2HXiy*M9oyOurQD0+dc2oDgiBaOQkSxt*sliG8CgcjGimN2rC2gSSVzIVFGphL3gTdm5fBHTVhWZzPOLQPA0d7jbupDk0TNog5xmCBcFDkxSsIzWDi4KGOEC9P+6N6rJmeJTxrBNAtAHgij1OF7leVVVe38WPy4xZAXM8x8pZqANQpqdHAz6jJa4De43tK4sKPxgJGtDThnJitHtqaohqrKuaIYqSE2Kp0fUNTnhgsFTDvq8Kskqz*Oi9Pp3G6T4yh76abJW+DYICS3YJi3zJIPBu7jeNyFCWZkyt06R3iwwBf1PvzFjJI2KJrUyhRTFpMJ6kwfohzAp8GsbBLgiCDd4gJvnRk6feJd7cmbIMH0SOXnUlC7O0scRESFh3+3un2RZFp4kHAhPUA65p26PVwMpVEIJ8aApx2N0mzu*VZJ9nhitYN8ZoHo33aZcwTtWYHr6+na5q+EhAUxx8F7lPUTHMl9nR5x+gXtN4S4*reXz2Ipi1Tta6eoiXUcdYmufcB*SAv2fH3apZ0GDt1INbTVTfNB0q4nzbzn0u79QRHI*x3OiwAtdSVZEVZHuJ5uNNkhhgwZckhzrP1ySBPUfUwIbQm*dakIFmEGSFI0Lz+cHRbJMw0ojhrTxWMsiTY808NHd92l9jIMyzBe79JgKyXUz7mDuio3a9nIOLQR5epY6nUwpWqo2wkPp+RcgoA8WuFCWVjk4yBlv34xOZrjeYRz3*CIly+WkpU5V1x*bsuYtitltGlab1TqaHIyrjsJLyxAro4Rkf7HtTTbsXvGqNuJsoD030R4q+xwsUyoxCzh3mS93k*SoxXPf9F+GXLeLLptRWZ*D*cqsjl7XCf3pKcj10kmUlVCvpOUxJAM5xsmLcA5rS7YFf3J+4Uh5iKOHj9x9LHl7P8jbiD80GRJ8t+O3bvx3Vz*mg3ttfwJ5c*jfuSSOlLVgy3YvR9tBJTLHjx2yPQfmsFe6SrnoKHO6KC8DP2qB12bw8wSyMKOn5iFIA5rdNUOzshlgKw2zrx7sgWVpb6knsGDahyn8wmcE9XFqQbPchEXcVGEsaaey0Xut5bnLIHv3GKA13yzogNd*AFBLAQIUAxQAAAgIALK9mlornYFzIgUAAAYJAAAKAAAAAAAAAAAAAACAgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAEoFAAAAAA==",
     "required": false
   },
   "BOT_NAME": {
     "description": "The display name of the bot as it will appear in interactions.",
-    "value": "CypherX",
+    "value": "Silky Sildy Lia",
     "required": false
   },
   "OWNER_NUMBER": {
     "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
-    "value": "",
+    "value": "2349017117779",
     "required": true
   },
   "OWNER_NAME": {
     "description": "The name of the primary owner of the bot.",
-    "value": "",
+    "value": "Pheazy",
     "required": true
   },
   "MENU_IMAGE": {
